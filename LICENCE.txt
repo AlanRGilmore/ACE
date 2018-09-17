@@ -1,0 +1,17 @@
+Copyright (C) 2018   Alan Gilmore    alan.gilmore.holywood@googlemail.com
+
+Rights are hereby granted to distribute this source code freely,
+and to rebuild it on any computing platform, including necessary
+changes to allow such rebuilding.
+
+Any modification for use in biological or medical research is permitted
+without restriction, and such modified versions may be distributed freely,
+provided that this licence is included.
+
+Modification to use the code or parts of the code for another purpose
+than biological or medical research requires the permission of the
+author.
+
+This program is distributed in the hope that it will be useful,
+but without any warranty; without even the implied warranty of
+fitness for a particular purpose.
