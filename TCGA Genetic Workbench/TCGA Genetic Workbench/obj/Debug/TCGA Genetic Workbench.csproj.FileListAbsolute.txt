@@ -1,0 +1,14 @@
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\TCGA Genetic Workbench.exe.config
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\TCGA Genetic Workbench.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\TCGA Genetic Workbench.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\Evolution.dll
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\MathNet.Numerics.dll
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\Evolution.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\bin\Debug\MathNet.Numerics.xml
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA Genetic Workbench.csprojResolveAssemblyReference.cache
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA_Genetic_Workbench.Form1.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA_Genetic_Workbench.MeasureForm.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA_Genetic_Workbench.Properties.Resources.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA Genetic Workbench.csproj.GenerateResource.Cache
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA Genetic Workbench.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\TCGA Genetic Workbench\TCGA Genetic Workbench\obj\Debug\TCGA Genetic Workbench.pdb

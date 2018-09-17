@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCGA Genetic Workbench", "TCGA Genetic Workbench\TCGA Genetic Workbench.csproj", "{5336BC8D-093C-4B69-B4C9-FA0B66945C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolution", "..\Evolution\Evolution.csproj", "{12DEE132-5458-47E3-911D-A6E7955F0A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5336BC8D-093C-4B69-B4C9-FA0B66945C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5336BC8D-093C-4B69-B4C9-FA0B66945C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5336BC8D-093C-4B69-B4C9-FA0B66945C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5336BC8D-093C-4B69-B4C9-FA0B66945C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DEE132-5458-47E3-911D-A6E7955F0A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DEE132-5458-47E3-911D-A6E7955F0A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DEE132-5458-47E3-911D-A6E7955F0A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DEE132-5458-47E3-911D-A6E7955F0A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
